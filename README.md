@@ -1,2 +1,2 @@
 # ms-foo.properties
-foo = Update foo to version 4
+profile=default-1.0
