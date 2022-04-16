@@ -1,2 +1,2 @@
 # map
-micro
+profile=default-1.0
